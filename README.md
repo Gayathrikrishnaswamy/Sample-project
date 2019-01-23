@@ -1,3 +1,3 @@
 # Sample-project
 Training - Sample project 
-GIT training 
+GK GIT training 
