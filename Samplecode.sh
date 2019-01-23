@@ -1,2 +1,2 @@
 
-welcome to sample project
+welcome to sample project on GIT
